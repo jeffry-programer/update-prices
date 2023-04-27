@@ -1,0 +1,1 @@
+UPDATE producto_has_empresa SET precioReal = 20900 WHERE linkProducto = "https://www.carulla.com/all-bran-original-400-gr-826580/p";UPDATE producto_has_empresa SET precioReal = 5850 WHERE linkProducto = "https://www.carulla.com/spaghetti-x-500-gr-73009/p";
